@@ -11,8 +11,9 @@
 
 <div align="center">
   <a href="https://github.com/naehj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naehj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naehj&layout=compact&langs_count=7&theme=dark"/>
+  [![naehj's GitHub stats](https://github-readme-stats.vercel.app/api?username=naehj)](https://github.com/anuraghazra/github-readme-stats)
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naehj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naehj&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
@@ -26,4 +27,14 @@
  
 </div>
 
+  <!-- <h1>White Version</h1> -->
+  
   ![Snake animation](https://github.com/naehj/naehj/blob/output/github-snake.svg)
+
+  <!-- <h1>Dark Version</h1>
+  
+  ![Snake animation](https://github.com/naehj/naehj/blob/output/github-snake-dark.svg)
+
+  <h1>Ocean Version</h1>
+
+  ![Snake animation](https://github.com/naehj/naehj/blob/output/ocean.gif) -->
