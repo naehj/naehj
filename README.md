@@ -26,14 +26,4 @@
  
 </div>
 
-  <!-- <h1>White Version</h1> -->
-  
   ![Snake animation](https://github.com/naehj/naehj/blob/output/github-snake.svg)
-
-  <!-- <h1>Dark Version</h1>
-  
-  ![Snake animation](https://github.com/naehj/naehj/blob/output/github-snake-dark.svg)
-
-  <h1>Ocean Version</h1>
-
-  ![Snake animation](https://github.com/naehj/naehj/blob/output/ocean.gif) -->
